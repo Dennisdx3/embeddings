@@ -1,0 +1,29 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+/__pycache__
+/venv
+
+# testing
+
+
+
+# misc
+.DS_Store
+*.pem
+*.local
+*.py
+*.pdf
+*.bat
+
+# debug
+
+
+# local env files
+.env*.local
+
+

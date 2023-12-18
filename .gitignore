@@ -20,6 +20,7 @@
 *.pdf
 *.bat
 userdb.db
+*.db
 
 # debug
 

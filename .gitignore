@@ -21,6 +21,7 @@
 *.bat
 userdb.*
 *.db
+.env
 
 # debug
 

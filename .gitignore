@@ -19,7 +19,7 @@
 *.py
 *.pdf
 *.bat
-userdb.db
+userdb.*
 *.db
 
 # debug

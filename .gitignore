@@ -19,6 +19,7 @@
 *.py
 *.pdf
 *.bat
+*.db
 
 # debug
 
